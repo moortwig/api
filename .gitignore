@@ -1,0 +1,16 @@
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.env
+*.css.map
+.sass-cache/
+.DS_Store
+Thumbs.db
+/public
+.php_cs
+.php_cs.cache
+*.sublime-project
+*.sublime-workspace
+/node_modules/
+.htaccess
